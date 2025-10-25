@@ -1,7 +1,9 @@
-# Monica-Everett-Desk-Pet
+# Monica Everett-Desk Pet
 
-A desk pet Monica Everett of novel Silent Witch based on Shimeji-ee
+[简体中文](readme_lang/zh_sim.md)
 
-Currently first created, in urgent need of a main painter
+[繁體中文](readme_lang/zh_tra.md)
 
-if anyone is interested in drawing the actions of this desk pet, please contact [QQ mail](3512546747@qq.com) or [foxmail](vechnimetel@foxmail.com)
+[English US](readme_lang/en_us.md)
+
+[English UK](readme_lang/en_uk.md)
